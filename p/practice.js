@@ -5,7 +5,4 @@ const num2 = 3;
 const sum = num1 + num2;
 console.log(sum)
 
-//random
-const aaa= Math.random();
-console.log(aaa);
 
