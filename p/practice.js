@@ -3,15 +3,9 @@ const num2 = 3;
 
 // add two numbers
 const sum = num1 + num2;
+console.log(sum)
 
 //random
-const a= Math.random();
-console.log(a);
+const aaa= Math.random();
+console.log(aaa);
 
-//factorial
-
-let factorial=1;
-for(i=1;i<=number;i++){
-    factorial*=i;
-}
-console.log(factorial)
