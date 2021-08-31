@@ -25,9 +25,3 @@ function fun() {
   console.log(fun());
 
 
-function cat() {
-    return {hello : "Full Stack Tutorials"
-}  
-  }
-
-  console.log(cat());
