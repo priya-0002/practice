@@ -9,3 +9,25 @@ console.log(sum)
 const a= Math.random();
 console.log(a);
 
+var arr=[1,2,3]
+var addition=arr.reduce((a,i)=>{
+    return a+i
+});
+console.log(addition)
+
+function fun() {
+    return
+    
+      name: "Full Stack Tutorials";
+    
+  }
+
+  console.log(fun());
+
+
+function cat() {
+    return {hello : "Full Stack Tutorials"
+}  
+  }
+
+  console.log(cat());
