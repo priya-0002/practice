@@ -26,7 +26,7 @@ function fun() {
 
 
 function cat() {
-    return {hello : "Full Stack Tutorials"
+    return {hello : "Full Stack"
 }  
   }
 
