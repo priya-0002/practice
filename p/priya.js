@@ -6,8 +6,7 @@ const sum = num1 + num2;
 console.log(sum)
 
 //random
-const a= Math.random();
-console.log(a);
+
 
 var arr=[1,2,3]
 var addition=arr.reduce((a,i)=>{
