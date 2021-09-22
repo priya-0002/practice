@@ -9,7 +9,7 @@ console.log(sum)
 const a= Math.random();
 console.log(a);
 
-var arr=[1,2,3]
+var arr=[1,2,3,4]
 var addition=arr.reduce((a,i)=>{
     return a+i
 });
@@ -25,6 +25,4 @@ function fun() {
   console.log(fun());
 
 
-  let a = 10;
-  var a = 20;
-  console.log(a);
+  
